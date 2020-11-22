@@ -5,7 +5,7 @@ import { Story, Meta } from '@storybook/react/types-6-0';
 import { Button, ButtonProps } from './index';
 
 export default {
-  title: 'BaseButton',
+  title: 'ButtonTw',
   component: Button,
   argTypes: {
     backgroundColor: { control: 'color' },
