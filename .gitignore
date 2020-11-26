@@ -24,3 +24,6 @@ yarn-error.log*
 
 #Tailwind
 src/styles/main.css
+
+#.env
+.env
